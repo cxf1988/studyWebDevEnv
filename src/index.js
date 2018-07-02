@@ -7,7 +7,7 @@ function strReverse(str) {
 const strInput = 'Hello World';
 const srtHolder = 'The result will be here...';
 const strHtml = `
-<img src="./src/assets/logo.jpg" alt="logo" />  
+<img src="./src/assets/logo.gif" alt="logo" />  
 <h1>${strInput}</h1>  
 <button id="do">Show the reverse of "${strInput}"</button>
 <button id="reset">Do reset</button>
